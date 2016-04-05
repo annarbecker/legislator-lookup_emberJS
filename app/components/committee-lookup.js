@@ -6,7 +6,6 @@ export default Ember.Component.extend({
       var params = {
         chamber: this.get('chamber')
       };
-      console.log(params.chamber)
 
       this.sendAction('selectChamber', params);
     }
