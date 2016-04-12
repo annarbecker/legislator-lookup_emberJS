@@ -5,7 +5,7 @@
 #### By Anna Becker & Tyler Suderman
 
 ## Description
-A website where a user can enter their zip code to look up local legislators or browse by chamber to see the list of committees and their subcommittees in the house and in the senate 
+A website where a user can enter their zip code to look up local legislators or browse by chamber to see the list of committees and their subcommittees in the house and in the senate. Data is retrieved through theSunlight Foundation's Congress API.
 
 ## Prerequisites
 
